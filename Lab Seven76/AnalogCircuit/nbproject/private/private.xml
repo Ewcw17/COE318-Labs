@@ -3,8 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/Node.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/IDCVS.java</file>
             <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/test/coe318/labseven76/NodeTest.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/test/coe318/labseven76/ResistorTest.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/Node.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/Circuit.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/Resistor.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/UserMain.java</file>
+            <file>file:/home/student1/e225wong/Desktop/COE318/Lab%20Seven76/AnalogCircuit/src/coe318/labseven76/Component.java</file>
         </group>
     </open-files>
 </project-private>

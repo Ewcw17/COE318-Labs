@@ -1,7 +1,7 @@
 package coe318.lab3;
 /**
  *
- * @author kclowes
+ * @author Calvin Klein
  */
 public class CounterTry {
 

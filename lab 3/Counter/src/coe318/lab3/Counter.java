@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Terry Chen
  */
 package coe318.lab3;
 public class Counter {

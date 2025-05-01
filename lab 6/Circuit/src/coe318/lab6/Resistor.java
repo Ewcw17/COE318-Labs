@@ -6,7 +6,7 @@ package coe318.lab6;
 
 /**
  *
- * @author e225wong
+ * @author Estelle Bright
  */
 public class Resistor {
     double resistance;

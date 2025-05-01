@@ -6,7 +6,7 @@ package coe318.lab6;
 
 /**
  *
- * @author e225wong
+ * @author The muffin man
  */
 public class Node {
     static int nextid = 0;

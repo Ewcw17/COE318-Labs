@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author e225wong
+ * @author Whoever's looking at this right now watches hentai
  */
 
 public class Circuit {

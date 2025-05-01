@@ -7,7 +7,7 @@ package coe318.labseven76;
 import java.util.Scanner;
 /**
  *
- * @author e225wong
+ * @author I went to the chinese restaurant to buy a loaf of bread bread bread
  */
 public class UserMain {
     

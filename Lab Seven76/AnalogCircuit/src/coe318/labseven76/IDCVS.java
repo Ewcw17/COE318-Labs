@@ -6,7 +6,7 @@ package coe318.labseven76;
 
 /**
  *
- * @author e225wong
+ * @author IDCVS stands for "INDEPENDANT DIRECT CURRENT(DC) VOLTAGE SOURCE"
  */
 public class IDCVS extends Component{
     double volts;

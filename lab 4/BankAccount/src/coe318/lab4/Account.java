@@ -6,7 +6,7 @@ package coe318.lab4;
 
 /**
  *
- * @author e225wong
+ * @author expecting someone else?
  */
 public class Account {
     

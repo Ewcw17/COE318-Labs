@@ -6,7 +6,7 @@ package coe318.labseven76;
 
 /**
  *
- * @author e225wong
+ * @author Jack Black
  */
 public class Resistor extends Component {
     double resistance;

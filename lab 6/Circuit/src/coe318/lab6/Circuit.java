@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author e225wong
+ * @author E. Nigma
  */
 
 public class Circuit {

@@ -6,7 +6,7 @@ package coe318.labseven76;
 
 /**
  *
- * @author e225wong
+ * @author Dr. Farah Mohammadi
  */
 abstract class Component {
     public abstract String spiceDescription();
